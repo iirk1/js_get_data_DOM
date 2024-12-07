@@ -13,5 +13,5 @@ for (const population of populations) {
 
 const average = total / populations.length;
 
-averagePopulation.innerHTML = average;
 totalPopulation.innerHTML = total;
+averagePopulation.innerHTML = average;
